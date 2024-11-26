@@ -4,6 +4,6 @@ title: About
 link: /about/
 ---
 
-# About me
+# You can find me by Email, X, or Github.
 
-So far, I have been a curious and inquisitive person, always seeking something that brings me happiness.
+Also, you can find my CV [here]({% link /assets/files/CV.pdf %}).

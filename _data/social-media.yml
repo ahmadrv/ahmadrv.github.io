@@ -1,0 +1,17 @@
+email:
+  id: 'ahmadrv@protonmail.com'
+  href: 'mailto:'
+  title: 'Email'
+  icon: 'square-envelope'
+
+X:
+  id: 'ahmadrv_'
+  href: 'https://www.X.com/'
+  title: 'X'
+  icon: 'square-x-twitter'
+
+github:
+  id: 'ahmadrv'
+  href: 'https://github.com/'
+  title: 'GitHub'
+  icon: 'square-github'
