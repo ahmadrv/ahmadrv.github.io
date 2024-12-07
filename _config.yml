@@ -12,3 +12,6 @@ plugins:
 
 feed:
   posts_limit: 20
+
+markdown: kramdown
+mathjax: true
